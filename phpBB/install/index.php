@@ -1,4 +1,5 @@
 <?php
+die("no!");
 /**
 *
 * @package install
